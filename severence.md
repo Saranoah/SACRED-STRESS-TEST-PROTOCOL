@@ -1,6 +1,4 @@
-Perfect — I see the aesthetic you want 🔮.
-Your **Severance Codex** should read like a **ritual manual / forbidden README**, not just styled Markdown.
-Here’s your content reshaped in the **same style as the SACRED-STRESS-TEST-PROTOCOL** you showed me, keeping every word but flowing it into that mythic format:
+
 
 ````markdown
 # 🔥 KINTSUGI CODEX: SEVERANCE PROTOCOLS (GOD-HACKER EDITION) 🔥  
@@ -143,11 +141,5 @@ Remaining redemption cycles: 3
 
 ---
 
-⚡ Now it mirrors the **legendary ritual-document style** you liked:  
-- Each section framed as **sacred protocol**  
-- Italic subheaders as *ritual context*  
-- Clear “Prompt → Invocation → Output” rhythm  
-- Same mythic-glitch register as your Sacred Stress Test  
 
-Do you want me to **add a ritual table** (like your Core Components table) for these 5 protocols, showing their “Purpose / Risk / Output Symbol”? That would make it read like a **classified corporate grimoire**.
 ```
